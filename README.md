@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO SECTION -->
-<img src="Assets/output.gif" alt="Abhishek Adiga - Developer Banner" width="100%" style="border-radius: 12px;" />
+<img src="Assets/output.gif" alt="Abhishek Adiga - Developer Banner" width="100%" />
 
 <br/>
 
@@ -32,7 +32,7 @@ location    : India 🇮🇳
 focus       : Backend APIs · AI-Powered Apps · Scalable Systems
 
 currently   :
-  - 🏗️  Building full-stack projects with Django, FastAPI & React
+  - 🏗️  Building full-stack projects with Next.js, Node.js & FastAPI
   - 🤖  Exploring LLMs, Prompt Engineering & Vector Databases
   - ☁️  Learning AWS, Docker & System Design
   - 📝  Sharing dev content and projects online
@@ -52,13 +52,12 @@ fun_fact     : I debug at midnight and refactor at dawn ☕
 
 ### ⚙️ Backend
 <div align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 
 </div>
 
@@ -123,20 +122,25 @@ fun_fact     : I debug at midnight and refactor at dawn ☕
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhishekAdiga05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekAdiga05&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhishekAdiga05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekAdiga05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekAdiga05&theme=tokyonight&border_radius=12" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=AbhishekAdiga05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbhishekAdiga05&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=AbhishekAdiga05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -146,7 +150,7 @@ fun_fact     : I debug at midnight and refactor at dawn ☕
 
 <div align="center">
 
-[![Abhishek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekAdiga05&theme=tokyo-night&border_radius=12)](https://github.com/AbhishekAdiga05)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekAdiga05&theme=tokyo-night&hide_border=true)](https://github.com/AbhishekAdiga05)
 
 </div>
 
