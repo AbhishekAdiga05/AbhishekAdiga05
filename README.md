@@ -32,7 +32,7 @@ location    : India 🇮🇳
 focus       : Backend APIs · AI-Powered Apps · Scalable Systems
 
 currently   :
-  - 🏗️  Building full-stack projects with Next.js, Node.js & FastAPI
+  - 🏗️  Building full-stack projects with Next.js, FastAPI & PostgreSQL
   - 🤖  Exploring LLMs, Prompt Engineering & Vector Databases
   - ☁️  Learning AWS, Docker & System Design
   - 📝  Sharing dev content and projects online
@@ -40,10 +40,9 @@ currently   :
 ask_me_about:
   - REST API design & backend architecture
   - Integrating AI/LLMs into web apps
-  - Python · Django · FastAPI · React · PostgreSQL
+  - Python · Node.js · FastAPI · React · PostgreSQL
   - Docker · Redis · Supabase · MongoDB
 
-fun_fact     : I debug at midnight and refactor at dawn ☕
 ```
 
 ---
@@ -122,16 +121,6 @@ fun_fact     : I debug at midnight and refactor at dawn ☕
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhishekAdiga05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekAdiga05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=AbhishekAdiga05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
@@ -140,13 +129,19 @@ fun_fact     : I debug at midnight and refactor at dawn ☕
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbhishekAdiga05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbhishekAdiga05&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=TypeScript" />
 
 </div>
 
----
+<br/>
 
-## 📈 Contribution Graph
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=AbhishekAdiga05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -154,7 +149,8 @@ fun_fact     : I debug at midnight and refactor at dawn ☕
 
 </div>
 
----
+-----
+
 
 <div align="center">
 
