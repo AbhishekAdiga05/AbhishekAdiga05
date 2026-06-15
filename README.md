@@ -159,6 +159,5 @@ ask_me_about:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbhishekAdiga05&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-**⭐ Star some repos if you find them useful — it means a lot!**
 
 </div>
