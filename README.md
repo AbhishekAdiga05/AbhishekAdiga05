@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- HERO SECTION -->
-<img src="Assets/output.gif" alt="Abhishek Adiga - Developer Banner" width="100%" />
+
 
 <br/>
 
