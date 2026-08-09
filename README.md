@@ -1,162 +1,187 @@
+
+
+Readme · MD
 <div align="center">
-
-
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:CC785C&height=200&section=header&text=Abhishek%20Adiga&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ISE%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+ 
 <br/>
-
-# Hey there, I'm **Abhishek Adiga** 👋
-
-### 🚀 ISE Student · Full-Stack Developer · AI/ML Explorer
-
-> *Turning caffeine and curiosity into full-stack products*
-
-<br/>
-
+ 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CC785C&center=true&vCenter=true&width=600&lines=Turning+caffeine+and+curiosity+into+full-stack+products;Building+AI-powered+web+apps;Web+Developer+%26+Team+Lead+%40+ISDC;Always+shipping%2C+always+learning" alt="Typing SVG" />
+</a>
+ 
+<br/><br/>
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-adiga-1a37b232a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekadiga2345@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekAdiga05)
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishekadiga.vercel.app/)
+ 
 </div>
-
----
-
+ 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+ 
 ## 🧑‍💻 About Me
-
+ 
 ```yaml
 name        : Abhishek Adiga
-role        : ISE Student & Aspiring Full-Stack Developer
-location    : India 🇮🇳
-focus       : Backend APIs · AI-Powered Apps · Scalable Systems
-
+role        : Final-year ISE Student & Full-Stack Developer / Team Lead @ ISDC
+location    : Udupi/Mangaluru, Karnataka, India 🇮🇳
+focus       : Full-Stack Web Apps · Generative AI Integration
+ 
 currently   :
-  - 🏗️  Building full-stack projects with Next.js, FastAPI & PostgreSQL
-  - 🤖  Exploring LLMs, Prompt Engineering & Vector Databases
-  - ☁️  Learning AWS, Docker & System Design
-  - 📝  Sharing dev content and projects online
-
+  - 🏗️  Building full-stack projects with Next.js, MERN & PostgreSQL
+  - 🤖  Integrating LLMs (Gemini, Claude, Groq/LLaMA) via LangChain
+  - 🧩  Leading web dev initiatives at ISDC
+  - 🏆  Competing in hackathons and LeetCode
+ 
 ask_me_about:
   - REST API design & backend architecture
   - Integrating AI/LLMs into web apps
-  - Python · Node.js · FastAPI · React · PostgreSQL
-  - Docker · Redis · Supabase · MongoDB
-
+  - Next.js · Node.js · Express · PostgreSQL · MongoDB
+  - Docker · Supabase · Prisma · Socket.IO
 ```
-
----
-
+ 
+<br/>
+ 
 ## 🛠️ Tech Stack
-
-### ⚙️ Backend
-<div align="left">
-  
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-
+ 
+<div align="center">
+ 
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,fastapi,tailwind,html,css&perline=6" />
+ 
+<br/><br/>
+ 
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,prisma,docker,aws,vercel,git,github,postman,figma&perline=6" />
+ 
 </div>
-
-### 🎨 Frontend
-<div align="left">
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-</div>
-
-### ☁️ Cloud & DevOps
-<div align="left">
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-</div>
-
-### 🗄️ Databases
-<div align="left">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</div>
-
-### 🤖 AI / ML
-<div align="left">
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-</div>
-
-### 🔧 Tools
-<div align="left">
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
+ 
+<br/>
+ 
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+ 
+**🤖 AI / ML**
+ 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+ 
+</td>
+<td valign="top" width="50%">
+ 
+**🔧 Other Tools**
+ 
+![Clerk](https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Judge0](https://img.shields.io/badge/Judge0-000000?style=flat-square)
+![Neon](https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=postgresql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+ 
+</td>
+</tr>
+</table>
+ 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+ 
+## 🚀 Featured Projects
+ 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+ 
+### 💰 NexPrice
+Price intelligence platform — my flagship project.
+ 
+**Stack:** Next.js · Supabase · PostgreSQL · Firecrawl · Resend
+ 
+[🔗 Repo Link — add your repo URL here]
+ 
+</td>
+<td width="50%" valign="top">
+ 
+### 📄 DocPilot
+AI documentation agent that generates docs from a codebase.
+ 
+**Stack:** Python · LangChain · Groq API (LLaMA 3.3 70B) · Pydantic · Streamlit
+ 
+[🔗 Repo Link — add your repo URL here]
+ 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+ 
+### 🔄 SyncVerse (Pairverse)
+Real-time collaborative coding platform.
+ 
+**Stack:** React · Express · MongoDB · Socket.IO · Yjs · tldraw
+ 
+[🔗 Repo Link — add your repo URL here]
+ 
+</td>
+<td width="50%" valign="top">
+ 
+### 💡 Lumina Co-Pilot
+Built for a Google AI Hackathon.
+ 
+**Stack:** React · TypeScript · Gemini Pro/Flash · GCP
+ 
+[🔗 Repo Link — add your repo URL here]
+ 
+</td>
+</tr>
+</table>
+ 
+> Replace the placeholder links above with your actual repo URLs before publishing.
+ 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+ 
 ## 📊 GitHub Analytics
-
+ 
 <div align="center">
-
+ 
 <img src="https://streak-stats.demolab.com/?user=AbhishekAdiga05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
+ 
 <br/>
-
-<div align="center">
-
+ 
 <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbhishekAdiga05&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=TypeScript" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
+ 
+<br/><br/>
+ 
 <img src="https://github-trophies.vercel.app/?username=AbhishekAdiga05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
-
-</div>
-
+ 
 <br/>
-
-<div align="center">
-
+ 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekAdiga05&theme=tokyo-night&hide_border=true)](https://github.com/AbhishekAdiga05)
-
+ 
 </div>
-
------
-
-
+ 
+<!--
+  Optional: contribution "snake" animation showing your commit history eating itself.
+  This needs a small GitHub Action in your repo — ask me if you'd like the workflow file
+  and I'll set it up, then you can swap in the image line below:
+ 
+  <img src="https://raw.githubusercontent.com/AbhishekAdiga05/AbhishekAdiga05/output/github-contribution-grid-snake.svg" width="100%"/>
+-->
+ 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+ 
 <div align="center">
-
+ 
 ### 🌟 *"The best way to predict the future is to build it."*
-
+ 
 <br/>
-
+ 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbhishekAdiga05&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-
+ 
+<br/><br/>
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC785C,100:0077B5&height=100&section=footer" width="100%"/>
+ 
 </div>
+ 
