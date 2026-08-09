@@ -98,6 +98,7 @@ ask_me_about:
 E-commerce Price intelligence platform 
  
 **Stack:** Next.js · Supabase · PostgreSQL · Firecrawl · Resend
+
 **Live:** https://getnexprice.vercel.app/
 </td>
 <td width="50%" valign="top">
@@ -106,6 +107,7 @@ E-commerce Price intelligence platform
 AI documentation agent that generates docs from a codebase.
  
 **Stack:** Python · LangChain · Groq API (LLaMA 3.3 70B) · Pydantic · Streamlit
+
 **Live:**  https://docpilotai.streamlit.app/
  
 </td>
@@ -117,6 +119,7 @@ AI documentation agent that generates docs from a codebase.
 AI Powered Real-time collaborative coding platform.
  
 **Stack:** React · Express · MongoDB · Socket.IO · Yjs · tldraw
+
 **Live:** https://16-170-226-128.nip.io/
  
 </td>
@@ -131,7 +134,6 @@ Built for a Google AI Hackathon.
 </tr>
 </table>
  
-> Replace the placeholder links above with your actual repo URLs before publishing.
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
  
