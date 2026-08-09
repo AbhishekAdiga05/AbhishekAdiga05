@@ -95,12 +95,10 @@ ask_me_about:
 <td width="50%" valign="top">
  
 ### 💰 NexPrice
-Price intelligence platform — my flagship project.
+E-commerce Price intelligence platform 
  
 **Stack:** Next.js · Supabase · PostgreSQL · Firecrawl · Resend
- 
-[🔗 Repo Link — add your repo URL here]
- 
+**Live:** https://getnexprice.vercel.app/
 </td>
 <td width="50%" valign="top">
  
@@ -108,8 +106,7 @@ Price intelligence platform — my flagship project.
 AI documentation agent that generates docs from a codebase.
  
 **Stack:** Python · LangChain · Groq API (LLaMA 3.3 70B) · Pydantic · Streamlit
- 
-[🔗 Repo Link — add your repo URL here]
+**Live:**  https://docpilotai.streamlit.app/
  
 </td>
 </tr>
@@ -117,11 +114,10 @@ AI documentation agent that generates docs from a codebase.
 <td width="50%" valign="top">
  
 ### 🔄 SyncVerse (Pairverse)
-Real-time collaborative coding platform.
+AI Powered Real-time collaborative coding platform.
  
 **Stack:** React · Express · MongoDB · Socket.IO · Yjs · tldraw
- 
-[🔗 Repo Link — add your repo URL here]
+**Live:** https://16-170-226-128.nip.io/
  
 </td>
 <td width="50%" valign="top">
@@ -130,8 +126,6 @@ Real-time collaborative coding platform.
 Built for a Google AI Hackathon.
  
 **Stack:** React · TypeScript · Gemini Pro/Flash · GCP
- 
-[🔗 Repo Link — add your repo URL here]
  
 </td>
 </tr>
