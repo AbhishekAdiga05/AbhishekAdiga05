@@ -115,7 +115,7 @@ AI documentation agent that generates docs from a codebase.
 <tr>
 <td width="50%" valign="top">
  
-### 🔄 SyncVerse (Pairverse)
+### 🔄 SyncVerse
 AI Powered Real-time collaborative coding platform.
  
 **Stack:** React · Express · MongoDB · Socket.IO · Yjs · tldraw
