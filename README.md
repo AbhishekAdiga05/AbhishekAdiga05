@@ -27,7 +27,7 @@ Readme · MD
 ```yaml
 name        : Abhishek Adiga
 role        : Final-year ISE Student & Full-Stack Developer / Team Lead @ ISDC
-location    : Udupi/Mangaluru, Karnataka, India 🇮🇳
+location    : Mangaluru, Karnataka, India 🇮🇳
 focus       : Full-Stack Web Apps · Generative AI Integration
  
 currently   :
