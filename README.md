@@ -102,14 +102,13 @@ E-commerce Price intelligence platform
 **Live:** https://getnexprice.vercel.app/
 </td>
 <td width="50%" valign="top">
- 
-### 📄 DocPilot
-AI documentation agent that generates docs from a codebase.
- 
-**Stack:** Python · LangChain · Groq API (LLaMA 3.3 70B) · Pydantic · Streamlit
 
-**Live:**  https://docpilotai.streamlit.app/
- 
+### 🤖 Aither
+Multi-model AI chat platform with real-time streaming and persistent conversations.
+
+**Stack:** Next.js 16 · React 19 · PostgreSQL · Prisma · Better Auth · OpenRouter
+
+**Live:** https://aitherchat.netlify.app
 </td>
 </tr>
 <tr>
