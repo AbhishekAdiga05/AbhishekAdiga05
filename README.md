@@ -108,7 +108,7 @@ Multi-model AI chat platform with real-time streaming and persistent conversatio
 
 **Stack:** Next.js 16 · React 19 · PostgreSQL · Prisma · Better Auth · OpenRouter
 
-**Live:** https://aitherchat.netlify.app
+**Live:** https://aither-chat.vercel.app/
 </td>
 </tr>
 <tr>
